@@ -1,5 +1,5 @@
-using Ejercicio2.DALs;
-using Ejercicio2.Models;
+using Ejercicio.DALs;
+using Ejercicio.Models;
 using System.Drawing.Drawing2D;
 
 namespace Ejercicio3;

@@ -1,5 +1,8 @@
 ﻿
-namespace Ejercicio2.DALs;
+using Ejercicio.DALs.List;
+using Ejercicio.DALs.MSQL;
+
+namespace Ejercicio.DALs;
 
 static public class FigurasDALFactory
 {
@@ -15,6 +18,8 @@ static public class FigurasDALFactory
         }
         return null;
     }
+
+
 }
 
 

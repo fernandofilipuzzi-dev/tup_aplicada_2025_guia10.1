@@ -1,3 +1,3 @@
-﻿namespace Ejercicio2.DALs;
+﻿namespace Ejercicio.DALs;
 
 public enum TipoDAL { MSQL, List };

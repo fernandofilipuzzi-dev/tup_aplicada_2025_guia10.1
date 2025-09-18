@@ -1,6 +1,6 @@
-﻿using Ejercicio2.Models;
+﻿using Ejercicio.Models;
 
-namespace Ejercicio2.DALs;
+namespace Ejercicio.DALs;
 
 public interface IFigurasDAL
 {

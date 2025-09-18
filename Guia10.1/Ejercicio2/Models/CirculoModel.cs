@@ -1,4 +1,4 @@
-﻿namespace Ejercicio2.Models;
+﻿namespace Ejercicio.Models;
 
 public class CirculoModel:FiguraModel
 {

@@ -1,7 +1,7 @@
-﻿using Ejercicio2.Models;
+﻿using Ejercicio.Models;
 using Microsoft.Data.SqlClient;
 
-namespace Ejercicio2.DALs;
+namespace Ejercicio.DALs.MSQL;
 
 public class FigurasMSQLDAL:IFigurasDAL
 {
